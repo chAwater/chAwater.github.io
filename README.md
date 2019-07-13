@@ -4,6 +4,22 @@ You can use the [editor on GitHub](https://github.com/chAwater/chAwater.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Resources
+- Jekyll
+    - http://jekyllthemes.org/
+    - https://github.com/thelehhman/plainwhite-jekyll
+- Pelican
+    - https://docs.getpelican.com/en/stable/
+    - http://www.pelicanthemes.com
+    - https://github.com/nasskach/pelican-blueidea
+- Gridea
+    - https://gridea.dev
+    - https://github.com/getgridea/gridea-theme-simple
+- GitHub
+    - https://github.com/github/personal-website
+- Emoji
+    - https://github.com/caiyongji/emoji-list/blob/master/README.md
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

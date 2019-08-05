@@ -19,6 +19,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     - https://github.com/github/personal-website
 - Emoji
     - https://github.com/caiyongji/emoji-list/blob/master/README.md
+- docsify
+    - https://docsify.js.org/#/zh-cn/
+- hexo
+    - https://hexo.io
+
+### Ideas & Projects
+#### SEVN + AI
+- AlphaGo/Zero
+- https://overthemoon.games
+#### JetsonXavier
+#### SkierFinder
+- MaskRCNN
+#### AlphaFold
+#### 流苏
 
 ### Markdown
 
